@@ -279,6 +279,8 @@ Report ID
 보고서 작성에 사용된 생산·품질 근거 데이터를 확인할 수 있습니다.
 
 ---
+<img width="1920" height="1432" alt="screencapture-artwork-responsibilities-occurred-potentially-trycloudflare-2026-09-11-14_47_03" src="https://github.com/user-attachments/assets/e165f5c4-1b8f-43bc-b239-a1f7f40e9d1b" />
+<img width="985" height="795" alt="2026-09-14_171234" src="https://github.com/user-attachments/assets/3cdbd5d1-5571-45c5-92f9-3910c04ba2c0" />
 
 ## 🌐 Flask API
 
